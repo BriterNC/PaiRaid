@@ -19,6 +19,8 @@ This is a game project was my by UnrefinedArt, a student developer group from Ba
 - [Kraken Tentacle]
 - [8-Bit Pirates Pixel Character Pack]
 - [Cannonball?]
+- [Pirate font]
+- [KING OF PIRATE Font]
 
 ### Credits:
 - 1640706410 Theerachot Langlongsatat (Section 229A No.36)
@@ -32,3 +34,5 @@ This is a game project was my by UnrefinedArt, a student developer group from Ba
 [Kraken Tentacle]: https://www.pinterest.com/pin/859132066386395596/
 [8-Bit Pirates Pixel Character Pack]: https://assetstore.unity.com/packages/2d/characters/2d-8bit-pixel-character-pack-106860
 [Cannonball?]: http://pixelartmaker.com/art/ed1232290c04716
+[Pirate font]: https://www.dafontfree.io/pirate-font/
+[KING OF PIRATE Font]: https://www.dafontfree.io/king-of-pirate-font/
