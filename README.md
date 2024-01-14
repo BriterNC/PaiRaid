@@ -26,8 +26,11 @@ This is a game project was my by UnrefinedArt, a student developer group from Ba
 - [Skulls and Crossbones Font]
 
 ### Credits:
-- 1640706410 Theerachot Langlongsatat (Section 229A No.36)
-- 1640706469 Pongpop Sootpong (Section 229A No.37)
+- 1640706410 [Theerachot Langlongsatat] (Section 229A No.36)
+- 1640706469 [Pongpop Sootpong] (Section 229A No.37)
+
+### Available on platforms:
+- [itch.io]
 
 [Sunny Land]: https://assetstore.unity.com/packages/2d/characters/sunny-land-103349
 [Old-Fashioned Pirate Ship]: https://opengameart.org/content/old-fashioned-pirate-ship
@@ -41,3 +44,6 @@ This is a game project was my by UnrefinedArt, a student developer group from Ba
 [Pirate Font]: https://www.dafontfree.io/pirate-font/
 [KING OF PIRATE Font]: https://www.dafontfree.io/king-of-pirate-font/
 [Skulls and Crossbones Font]: https://www.fontspace.com/skulls-and-crossbones-font-f40791
+[itch.io]: https://physicsforgame-projects.itch.io/pailraid
+[Theerachot Langlongsatat]: https://github.com/BriterNC
+[Pongpop Sootpong]: https://github.com/Latte1408
